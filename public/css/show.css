@@ -1,0 +1,37 @@
+header
+* {
+box-sizing: border-box;
+}
+
+.title{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+}
+.column {
+  float: left;
+  width: 40%;
+  height: 400px;
+  padding: 10px;
+  font-size: 14px;
+  padding-right: 5%;
+}
+
+.row{
+  float: left;
+  width: 44%;
+  height: 400px;
+  padding: 10px;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.iframe{
+  float: left;
+  width: 29%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: rgba(158, 158, 158, 0.5);
+}
